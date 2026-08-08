@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Name>Impresora</Name>
+    <Price>89.5</Price>
+    <Stock>45</Stock>
+    <IsAvailable>true</IsAvailable>
+  </Product>
+  <Product>
+    <Name>Teclado</Name>
+    <Price>45</Price>
+    <Stock>5</Stock>
+    <IsAvailable>false</IsAvailable>
+  </Product>
+  <Product>
+    <Name>Micrófono</Name>
+    <Price>35</Price>
+    <Stock>10</Stock>
+    <IsAvailable>true</IsAvailable>
+  </Product>
+  <Product>
+    <Name>Portátil</Name>
+    <Price>1150</Price>
+    <Stock>2</Stock>
+    <IsAvailable>true</IsAvailable>
+  </Product>
+  <Product>
+    <Name>Monitor</Name>
+    <Price>125</Price>
+    <Stock>0</Stock>
+    <IsAvailable>false</IsAvailable>
+  </Product>
+  <Product>
+    <Name>Tarjeta gráfica</Name>
+    <Price>850</Price>
+    <Stock>1</Stock>
+    <IsAvailable>false</IsAvailable>
+  </Product>
+</ArrayOfProduct>
