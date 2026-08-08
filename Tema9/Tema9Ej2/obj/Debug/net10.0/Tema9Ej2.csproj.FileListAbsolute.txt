@@ -1,0 +1,14 @@
+/home/agos/repo/Imagine Campus/Tema9/Tema9Ej2/bin/Debug/net10.0/Tema9Ej2
+/home/agos/repo/Imagine Campus/Tema9/Tema9Ej2/bin/Debug/net10.0/Tema9Ej2.deps.json
+/home/agos/repo/Imagine Campus/Tema9/Tema9Ej2/bin/Debug/net10.0/Tema9Ej2.runtimeconfig.json
+/home/agos/repo/Imagine Campus/Tema9/Tema9Ej2/bin/Debug/net10.0/Tema9Ej2.dll
+/home/agos/repo/Imagine Campus/Tema9/Tema9Ej2/bin/Debug/net10.0/Tema9Ej2.pdb
+/home/agos/repo/Imagine Campus/Tema9/Tema9Ej2/obj/Debug/net10.0/Tema9Ej2.GeneratedMSBuildEditorConfig.editorconfig
+/home/agos/repo/Imagine Campus/Tema9/Tema9Ej2/obj/Debug/net10.0/Tema9Ej2.AssemblyInfoInputs.cache
+/home/agos/repo/Imagine Campus/Tema9/Tema9Ej2/obj/Debug/net10.0/Tema9Ej2.AssemblyInfo.cs
+/home/agos/repo/Imagine Campus/Tema9/Tema9Ej2/obj/Debug/net10.0/Tema9Ej2.csproj.CoreCompileInputs.cache
+/home/agos/repo/Imagine Campus/Tema9/Tema9Ej2/obj/Debug/net10.0/Tema9Ej2.dll
+/home/agos/repo/Imagine Campus/Tema9/Tema9Ej2/obj/Debug/net10.0/refint/Tema9Ej2.dll
+/home/agos/repo/Imagine Campus/Tema9/Tema9Ej2/obj/Debug/net10.0/Tema9Ej2.pdb
+/home/agos/repo/Imagine Campus/Tema9/Tema9Ej2/obj/Debug/net10.0/Tema9Ej2.genruntimeconfig.cache
+/home/agos/repo/Imagine Campus/Tema9/Tema9Ej2/obj/Debug/net10.0/ref/Tema9Ej2.dll
