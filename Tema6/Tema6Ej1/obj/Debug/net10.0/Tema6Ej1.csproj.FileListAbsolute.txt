@@ -1,0 +1,14 @@
+/home/agos/repo/Imagine Campus/Tema6Ej1/obj/Debug/net10.0/Tema6Ej1.GeneratedMSBuildEditorConfig.editorconfig
+/home/agos/repo/Imagine Campus/Tema6Ej1/obj/Debug/net10.0/Tema6Ej1.AssemblyInfoInputs.cache
+/home/agos/repo/Imagine Campus/Tema6Ej1/obj/Debug/net10.0/Tema6Ej1.AssemblyInfo.cs
+/home/agos/repo/Imagine Campus/Tema6Ej1/obj/Debug/net10.0/Tema6Ej1.csproj.CoreCompileInputs.cache
+/home/agos/repo/Imagine Campus/Tema6Ej1/bin/Debug/net10.0/Tema6Ej1
+/home/agos/repo/Imagine Campus/Tema6Ej1/bin/Debug/net10.0/Tema6Ej1.deps.json
+/home/agos/repo/Imagine Campus/Tema6Ej1/bin/Debug/net10.0/Tema6Ej1.runtimeconfig.json
+/home/agos/repo/Imagine Campus/Tema6Ej1/bin/Debug/net10.0/Tema6Ej1.dll
+/home/agos/repo/Imagine Campus/Tema6Ej1/bin/Debug/net10.0/Tema6Ej1.pdb
+/home/agos/repo/Imagine Campus/Tema6Ej1/obj/Debug/net10.0/Tema6Ej1.dll
+/home/agos/repo/Imagine Campus/Tema6Ej1/obj/Debug/net10.0/refint/Tema6Ej1.dll
+/home/agos/repo/Imagine Campus/Tema6Ej1/obj/Debug/net10.0/Tema6Ej1.pdb
+/home/agos/repo/Imagine Campus/Tema6Ej1/obj/Debug/net10.0/Tema6Ej1.genruntimeconfig.cache
+/home/agos/repo/Imagine Campus/Tema6Ej1/obj/Debug/net10.0/ref/Tema6Ej1.dll
